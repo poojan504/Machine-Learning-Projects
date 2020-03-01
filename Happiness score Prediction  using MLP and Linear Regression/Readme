@@ -1,0 +1,15 @@
+EEE 511 - Artificial Neural Computation, Spring 2020
+
+Team 1 : Happiness Score 
+
+Authors : Aalap Doshi, Poojan Patel, Varadaraya Ganesh Shenoy.
+
+For the codes to run successfully , please make sure the dataset 2015.csv is placed in the same directory as the codes . 
+
+This assignment is executed on Python 3.7 . 
+To present the data in a good manner to the package , Pandas library is used. For mathematical operations, the numpy library is used. We have used Scikit libraries to create and implement the models . 
+
+Train-Test and Cross Validation Regression analysis is depicted in the form plots for all the features and when only 5 features are used . 
+
+The regression model is named by linear_regression.py , MLP model is named by mlp.py. 
+The results and the analysis is presented in Report.pdf. 
